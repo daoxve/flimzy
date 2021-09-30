@@ -1,2 +1,3 @@
-# Flutter Facebook Responsive UI Starter Project
-# flimzy
+# Flimzy
+
+An Open Source Chat Application.
